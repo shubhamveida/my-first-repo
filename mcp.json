@@ -1,0 +1,10 @@
+"YOUR_SERVER_NAME": {
+           "type": "stdio",
+           "command": "C:\\Users\\{user-name}\\mcp-strategy-demo\\venv\\Scripts\\mcp.exe",
+           "args": [
+               "run",
+               "C:\\Users\\{user-name}\\mcp-strategy-demo\\strategy_tools.py"
+           ],
+           "cwd": "C:\\Users\\{user-name}\\mcp-strategy-demo"
+       }
+   }
